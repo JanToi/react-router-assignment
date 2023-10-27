@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 }
+
+.button1 {
+  
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.upperblog {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.articlelist {
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.blogheader {
+  margin-left: 16px;
+  margin-top: 6px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.emailfield {
+  margin-top: 8px;
+  margin-bottom: 2px;
+}
+
+.contactCard {
+  margin-top: 8px;
+  margin-bottom: 4px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.contactH {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 6px;
+}
+
+.contactButton {
+  margin-left: 16px;
+  margin-bottom: 12px;
+}
+
+.contactButton2 {
+  margin-left: 16px;
+  margin-bottom: 12px;
+  background-color: burlywood;
+}
